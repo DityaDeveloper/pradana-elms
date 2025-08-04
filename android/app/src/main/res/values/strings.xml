@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bridge LMS</string>
+    <string name="facebook_app_id">3873996739506063</string>
+    <string name="fb_login_protocol_scheme">fb3873996739506063</string>
+    <string name="facebook_client_token">9ad12e3f38cc581a68730d9988d5c31e</string>
+</resources>

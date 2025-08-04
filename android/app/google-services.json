@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567860198358",
+    "project_id": "pradana-lms",
+    "storage_bucket": "pradana-lms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567860198358:android:364b7612d6064c2aac8277",
+        "android_client_info": {
+          "package_name": "com.lms.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfOEamisi7FBKEkcc4BSX3muovFAdiK9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

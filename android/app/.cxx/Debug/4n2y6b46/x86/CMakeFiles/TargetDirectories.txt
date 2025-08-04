@@ -1,0 +1,2 @@
+/Volumes/RazinSoft-2/Projects/bridge-lms-flutter/android/app/.cxx/Debug/4n2y6b46/x86/CMakeFiles/edit_cache.dir
+/Volumes/RazinSoft-2/Projects/bridge-lms-flutter/android/app/.cxx/Debug/4n2y6b46/x86/CMakeFiles/rebuild_cache.dir
